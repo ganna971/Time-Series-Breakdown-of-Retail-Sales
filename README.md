@@ -14,11 +14,8 @@ This project analyzes the **Walmart Sales Forecasting Dataset (Kaggle)** to unco
 ## 📊 Key Insights  
 - **Sales seasonality:** Peak sales during November–December due to holidays  
 - **Store Type A dominance:** Largest stores (Type A) consistently outperform Types B & C  
-- **Departmental trends:** Certain departments show strong seasonal peaks  
-
-## 💻 Tools Used  
-- Python (Pandas, Matplotlib)  
-- Jupyter/Colab Notebook  
+- **Departmental trends:** Certain departments show strong seasonal peaks
+-  
 - [Colab Notebook]:https://colab.research.google.com/drive/1PK9tC-zJyEd69cL5yFQ5Er1zEw5AuQpY?usp=sharing 
  
 
