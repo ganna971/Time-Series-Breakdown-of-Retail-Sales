@@ -33,8 +33,6 @@ This project analyzes the **Walmart Sales Forecasting Dataset (Kaggle)** to unco
 ## 💻 Tools Used  
 - Python (Pandas, Matplotlib)  
 - Jupyter/Colab Notebook  
-
-## 🔗 Links  
 - [Colab Notebook]:https://colab.research.google.com/drive/1PK9tC-zJyEd69cL5yFQ5Er1zEw5AuQpY?usp=sharing 
  
 
