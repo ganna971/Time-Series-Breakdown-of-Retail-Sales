@@ -11,20 +11,6 @@ This project analyzes the **Walmart Sales Forecasting Dataset (Kaggle)** to unco
 - **features.csv** → Additional variables (holiday flag, fuel, CPI, etc.)  
 - **stores.csv** → Metadata about store type and size  
 
-## 🔧 Steps Performed  
-1. **Data Cleaning & Merging**  
-   - Combined `train`, `features`, and `stores` into one dataset  
-   - Converted dates and extracted `Year` and `Month`  
-
-2. **Time Series Analysis**  
-   - Overall **monthly sales trends**  
-   - **3-month moving average** smoothing  
-   - **Seasonal patterns** (monthly averages across years)  
-
-3. **Breakdown Analysis**  
-   - Sales trends by **Store Type (A, B, C)**  
-   - Sales trends for **Top 5 Product Departments**  
-
 ## 📊 Key Insights  
 - **Sales seasonality:** Peak sales during November–December due to holidays  
 - **Store Type A dominance:** Largest stores (Type A) consistently outperform Types B & C  
